@@ -1,2 +1,3 @@
 # hello-world
-First repository
+My name is Alex
+I live in Moscow now
